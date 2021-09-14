@@ -1,0 +1,15 @@
+# VS generated files #
+######################
+*.suo
+*.user
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/*
+
+# Node.js Tools for Visual Studio
+node_modules/
+
+# IDEs and editors
+.project
+.classpath
